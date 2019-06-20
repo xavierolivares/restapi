@@ -7,3 +7,6 @@ Takeaway
 If you have an import that is not used, go build will not run.
 
 Build a restful api
+
+Golang REST API with Mux:
+https://www.youtube.com/watch?v=SonwZ6MF5BE
